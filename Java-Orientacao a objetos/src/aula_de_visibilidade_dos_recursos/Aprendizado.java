@@ -8,6 +8,12 @@ public class Aprendizado {
      */
 
     /*
+     * Quando um método está em modo "protected" significa que aquele método
+     * só pode ser visivel ou chamado por ele mesmo, por classes que herderam
+     * dele e por classes do mesmo pacote.
+     */
+
+    /*
      * Quando um método está em modo "private" significa que apenas a classe
      * em que ele se encontra consegue visualizar ou chamar aquele método,
      * ou seja, apenas a classe que possui o método consegue utilizá-lo.
