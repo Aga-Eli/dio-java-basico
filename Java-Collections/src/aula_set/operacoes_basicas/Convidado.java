@@ -1,4 +1,4 @@
-package aula_set;
+package aula_set.operacoes_basicas;
 
 import java.util.Objects;
 

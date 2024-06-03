@@ -7,7 +7,9 @@ public class comparableComparatorEx {
     /*
      * Comparable x Comparator são interfaces utilizadas para organizar 
      * ou comparar elementos, como em uma lista, por exemplo.
-     */
+     * 
+     * Pense neles como se fossem estabelecedores de uma ordem natural
+     */ 
 
     /*
      * Comparable
